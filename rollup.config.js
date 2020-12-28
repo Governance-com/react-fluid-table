@@ -48,7 +48,7 @@ const config = {
 };
 
 if (process.env.BUILD === "production") {
-  config.plugins.push(terser());
+  // config.plugins.push(terser());
 } else {
   config.plugins.push(visualizer());
 }

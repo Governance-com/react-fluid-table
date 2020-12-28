@@ -1,5 +1,5 @@
 {
-  "name": "react-fluid-table",
+  "name": "@fork/react-fluid-table",
   "version": "0.4.2",
   "description": "A React table inspired by react-window",
   "author": "Mckervin Ceme <mckervinc@live.com>",
